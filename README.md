@@ -49,7 +49,7 @@ cd FunctionalMyntraClone
 
 Want to improve this project? Feel free to fork, star, and contribute! 🚀
 
-🔗 Live Demo (if deployed): Click Here
+🔗 Live Demo: https://king-x06.github.io/Functional-Myntra-Clone/
 
 💖 If you like this project, consider giving it a ⭐ on GitHub!
 
@@ -59,5 +59,5 @@ Want to improve this project? Feel free to fork, star, and contribute! 🚀
 
 🎉 Happy Coding! 🚀
 
-🔗 Live Demo: https://king-x06.github.io/Functional-Myntra-Clone/
+
 
