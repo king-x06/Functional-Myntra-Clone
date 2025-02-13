@@ -1,4 +1,4 @@
-# Functional-Myntra-CloneHere’s your final polished README without the screenshots section:
+# Functional-Myntra-Clone
 
 🚀 Functional Myntra Clone
 
