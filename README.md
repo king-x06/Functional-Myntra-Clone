@@ -19,7 +19,7 @@ Tech Stack
 How to Use
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/FunctionalMyntraClone.git
+git clone https://github.com/king-x06/FunctionalMyntraClone.git
 
 
 	2.	Open index.html in a browser.
@@ -33,5 +33,5 @@ Contributions
 
 Feel free to fork this repo and improve it!
 
-🔗 Live Demo (if deployed): [Link Here]
+🔗 Live Demo: https://king-x06.github.io/Functional-Myntra-Clone/
 
